@@ -6,3 +6,6 @@ int main()
   printf("Parent Process Id is: %d", getpid() );
   return 0;
 }
+output
+Process ID: 14488
+Parent Process ID: 14488
